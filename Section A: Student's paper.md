@@ -139,3 +139,102 @@ Section A: Student's paper
 2.I mean, he was a jazz musician and he actually, like personally, **knew** the **artists** I'm writing about.
 
 ----------
+1.You are kidding! That's a coincidence.
+
+----------
+
+1.Yeah. I know. It's cool. Right?
+
+----------
+
+1.So, anyway, that's why I was wondering if I **can** get an extension because I thought it would be **a very** great if I could like interview him for my paper.
+
+2.So, anyway, that's why I was wondering if I **could** get an extension because I thought it would be **really** great if I could like interview him for my paper.
+
+----------
+
+1.Ah...
+
+----------
+
+1.But I don't think I can meet with him until early next week. So...
+
+----------
+
+1.Ah...I see. Well.
+
+----------
+
+1.It was certainly add a new dimension to your paper, wouldn't it?
+
+----------
+
+1.Have you talked to this gentleman yet?
+
+----------
+
+1.Ah, no. But I **talk** to my friend just, you know, past and she said he would  probably love to do it.
+
+2.Ah, no. But I **talked** to my friend just, you know, ran the idea past and she said he would  probably love to do it.
+
+----------
+
+1.But you know he is busy until next week.
+
+----------
+
+1.Okay. Well. Yeah, I think that in this case we can definitely extend your  deadline until **but say** Friday next week.
+
+2.Okay. Well. Yeah, I think that in this case we can definitely extend your  deadline until, **that's say**, Friday next week.
+
+----------
+
+1.Okay. That would be great.
+
+----------
+
+1.But just be fare, why don't you turn **it in** on the due **day**.
+
+2.But just be fair, why don't you turn **in an outline of your paper** on the due **date**?
+
+----------
+
+1.The outline? Oh, that's no problem.
+
+----------
+
+1.It's basically **down** except parts about the interview.
+
+2.It's basically **done** except **for the** parts about the interview.
+
+----------
+
+1.Oh yeah, the interview.
+
+----------
+
+1.Could you have the questions ready then too?
+
+----------
+
+1.The ones you planning on asking?
+
+2.The ones you **are** planning on asking?
+
+----------
+
+1.Sure. Yeah, I can do that too.
+
+----------
+
+1.And I'll expect the final **grafts** next Friday.
+
+2.And **then** I'll expect the final **draft** next Friday.
+
+----------
+
+1.Okay. Great! Thanks.
+
+----------
+
+1.Sure. I'm looking forward to reading it.
