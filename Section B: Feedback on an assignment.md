@@ -111,3 +111,46 @@ Section B: Feedback on an assignment
 1.Too many people seem to **of** miss the point.
 
 2.Too many people **seemed** to **have** **missed** the point.
+
+----------
+
+1.I think I may have to forgo evaluating this one.
+
+----------
+
+1.Instead maybe **we are just** discussing **what test to** write a good film review.
+
+2.Instead maybe **we'll just devote a class to** discussing **what it takes to** write a good film review.
+
+----------
+
+1.Or maybe...en... you know, I have a **cali gu** writes **fews of use** for the local paper.
+
+2.Or maybe...en... you know, I have a **colleague who** writes **film reviews** for the local paper.
+
+----------
+
+1.Maybe I could ask her to come to class and describe what she does, and then have everyone rewrite their reviews. 
+
+----------
+
+1.So, she would talk about what **some of** review should be like, so we'd know what to do .
+
+2.So, she would talk about what **a film** review should be like, so we'd know what to do .
+
+----------
+
+1.Well, more than that.
+
+----------
+
+1.A professional film **review** gets to see movie sometimes before they released.
+
+2.A professional film **reviewer** gets to see movies sometimes before they **are even** released.
+
+----------
+
+1.They get **evens** copies, usually a video or DVD, to watch at home, or they go to a movie **a sunerthen openzen** the theaters.
+
+2.They get **advance** copies, usually a video or DVD, to watch at home or they go to a movie **as soon as it opens in** the theaters.
+
