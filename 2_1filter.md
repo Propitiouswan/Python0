@@ -22,11 +22,9 @@
     def plalindrome():
         it = naturalnum()
         while True:
-    
             it = filter(divisible, it)
             n = next(it)
             yield n
-    n = 0
     for x in plalindrome():
         if x < 10000:
             print(x)
