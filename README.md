@@ -1,2 +1,2 @@
 # Python
-This recorded my mental journey when I was studying Python.
+This recorded my journey of studying Python.
