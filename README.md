@@ -1,4 +1,4 @@
-# Python
+# Python的学习预备
 A1hanoitower：实现汉诺塔的解法。
 
 A2yanghuistriangle：打印杨辉三角。
